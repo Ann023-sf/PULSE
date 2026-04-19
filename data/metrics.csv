@@ -1,0 +1,33 @@
+week,project,progress,issues
+2026-03-03,AI Project,62%,UAT environment instability
+2026-03-03,Healthcare System,70%,Change control backlog
+2026-03-03,Banking Platform,55%,Security findings pending sign-off
+2026-03-03,Retail Analytics,48%,Security findings pending sign-off
+2026-03-10,AI Project,68%,Performance regression under peak load
+2026-03-10,Healthcare System,69%,Key SME availability conflicts
+2026-03-10,Banking Platform,58%,Vendor SLA misses on file delivery
+2026-03-10,Retail Analytics,52%,Vendor SLA misses on file delivery
+2026-03-17,AI Project,71%,UAT environment instability
+2026-03-17,Healthcare System,67%,Change control backlog
+2026-03-17,Banking Platform,60%,Security findings pending sign-off
+2026-03-17,Retail Analytics,51%,Security findings pending sign-off
+2026-03-24,AI Project,74%,Performance regression under peak load
+2026-03-24,Healthcare System,65%,Key SME availability conflicts
+2026-03-24,Banking Platform,63%,Vendor SLA misses on file delivery
+2026-03-24,Retail Analytics,54%,Vendor SLA misses on file delivery
+2026-03-31,AI Project,78%,UAT environment instability
+2026-03-31,Healthcare System,64%,Change control backlog
+2026-03-31,Banking Platform,66%,Security findings pending sign-off
+2026-03-31,Retail Analytics,58%,Security findings pending sign-off
+2026-04-07,AI Project,80%,Performance regression under peak load
+2026-04-07,Healthcare System,63%,Key SME availability conflicts
+2026-04-07,Banking Platform,68%,Vendor SLA misses on file delivery
+2026-04-07,Retail Analytics,57%,Vendor SLA misses on file delivery
+2026-04-14,AI Project,82%,UAT environment instability
+2026-04-14,Healthcare System,62%,Change control backlog
+2026-04-14,Banking Platform,72%,Security findings pending sign-off
+2026-04-14,Retail Analytics,61%,Security findings pending sign-off
+2026-04-21,AI Project,84%,Performance regression under peak load
+2026-04-21,Healthcare System,61%,Key SME availability conflicts
+2026-04-21,Banking Platform,74%,Vendor SLA misses on file delivery
+2026-04-21,Retail Analytics,64%,Vendor SLA misses on file delivery

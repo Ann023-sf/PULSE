@@ -1,0 +1,1339 @@
+=== Email 1 ===
+Project: AI Project
+From: Marcus Lee <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $150k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Marcus Lee
+
+=== Email 2 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 10:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$113k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 3 ===
+Project: Banking Platform
+From: Sam Rivera <sam@northbridge-consulting.com>
+Subject: [Banking Platform] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-16 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Sam Rivera
+
+=== Email 4 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 12:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$149k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 5 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-14 13:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$167k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 6 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 14:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$185k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 7 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 8 ===
+Project: Retail Analytics
+From: Chris Patel <chris@northbridge-consulting.com>
+Subject: [Retail Analytics] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-21 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Chris Patel
+
+=== Email 9 ===
+Project: AI Project
+From: Priya Nair <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $430k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Priya Nair
+
+=== Email 10 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 11:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$257k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 11 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 12:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$275k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 12 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 13:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$293k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 13 ===
+Project: AI Project
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: AI Project — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 14 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 15:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$329k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 15 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 09:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$95k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 16 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 10:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$113k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 17 ===
+Project: AI Project
+From: Dana Frost <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $395k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Dana Frost
+
+=== Email 18 ===
+Project: Healthcare System
+From: Jordan Kim <jordan@northbridge-consulting.com>
+Subject: [Healthcare System] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-15 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Jordan Kim
+
+=== Email 19 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 20 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 14:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$185k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 21 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-18 15:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$203k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 22 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 09:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$221k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 23 ===
+Project: Banking Platform
+From: Tina Okonkwo <tina@northbridge-consulting.com>
+Subject: [Banking Platform] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-20 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Tina Okonkwo
+
+=== Email 24 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 11:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$257k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 25 ===
+Project: AI Project
+From: Marcus Lee <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $360k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Marcus Lee
+
+=== Email 26 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 13:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$293k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 27 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 14:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$311k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 28 ===
+Project: Retail Analytics
+From: Morgan Blake <morgan@northbridge-consulting.com>
+Subject: [Retail Analytics] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-17 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Morgan Blake
+
+=== Email 29 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-14 09:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$95k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 30 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 10:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$113k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 31 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 32 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 12:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$149k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 33 ===
+Project: AI Project
+From: Marcus Lee <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $325k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Marcus Lee
+
+=== Email 34 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 14:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$185k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 35 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 15:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$203k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 36 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 09:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$221k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 37 ===
+Project: AI Project
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: AI Project — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 38 ===
+Project: Healthcare System
+From: Sam Rivera <sam@northbridge-consulting.com>
+Subject: [Healthcare System] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-19 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Sam Rivera
+
+=== Email 39 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 12:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$275k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 40 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 13:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$293k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 41 ===
+Project: AI Project
+From: Dana Frost <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $290k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Dana Frost
+
+=== Email 42 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 15:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$329k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 43 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 44 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 10:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$113k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 45 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-18 11:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$131k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 46 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 12:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$149k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 47 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 13:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$167k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 48 ===
+Project: Retail Analytics
+From: Morgan Blake <morgan@northbridge-consulting.com>
+Subject: [Retail Analytics] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-21 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Morgan Blake
+
+=== Email 49 ===
+Project: AI Project
+From: Dana Frost <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $255k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Dana Frost
+
+=== Email 50 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 09:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$221k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 51 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 10:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$239k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 52 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 11:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$257k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 53 ===
+Project: AI Project
+From: Jordan Kim <jordan@northbridge-consulting.com>
+Subject: [AI Project] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-18 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Jordan Kim
+
+=== Email 54 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 13:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$293k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 55 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 56 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 15:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$329k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 57 ===
+Project: AI Project
+From: Dana Frost <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $220k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Dana Frost
+
+=== Email 58 ===
+Project: Healthcare System
+From: Jordan Kim <jordan@northbridge-consulting.com>
+Subject: [Healthcare System] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-15 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Jordan Kim
+
+=== Email 59 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 11:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$131k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 60 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 12:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$149k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 61 ===
+Project: AI Project
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: AI Project — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 62 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 14:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$185k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 63 ===
+Project: Banking Platform
+From: Tina Okonkwo <tina@northbridge-consulting.com>
+Subject: [Banking Platform] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-20 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Tina Okonkwo
+
+=== Email 64 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 09:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$221k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 65 ===
+Project: AI Project
+From: Priya Nair <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $185k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Priya Nair
+
+=== Email 66 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 11:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$257k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 67 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 68 ===
+Project: Retail Analytics
+From: Morgan Blake <morgan@northbridge-consulting.com>
+Subject: [Retail Analytics] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-17 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Morgan Blake
+
+=== Email 69 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-18 14:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$311k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 70 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 15:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$329k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 71 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 09:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$95k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 72 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 10:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$113k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 73 ===
+Project: AI Project
+From: Priya Nair <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $150k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Priya Nair
+
+=== Email 74 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 12:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$149k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 75 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 13:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$167k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 76 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 14:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$185k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 77 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-14 15:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$203k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 78 ===
+Project: Healthcare System
+From: Chris Patel <chris@northbridge-consulting.com>
+Subject: [Healthcare System] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-19 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Chris Patel
+
+=== Email 79 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 80 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 11:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$257k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 81 ===
+Project: AI Project
+From: Dana Frost <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $430k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Dana Frost
+
+=== Email 82 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 13:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$293k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 83 ===
+Project: Banking Platform
+From: Jordan Kim <jordan@northbridge-consulting.com>
+Subject: [Banking Platform] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-16 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Jordan Kim
+
+=== Email 84 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 15:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$329k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 85 ===
+Project: AI Project
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: AI Project — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 86 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 10:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$113k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 87 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 11:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$131k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 88 ===
+Project: Retail Analytics
+From: Chris Patel <chris@northbridge-consulting.com>
+Subject: [Retail Analytics] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-21 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Chris Patel
+
+=== Email 89 ===
+Project: AI Project
+From: Dana Frost <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $395k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Dana Frost
+
+=== Email 90 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 14:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$185k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 91 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 92 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 09:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$221k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 93 ===
+Project: AI Project
+From: Jordan Kim <jordan@northbridge-consulting.com>
+Subject: [AI Project] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-18 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Jordan Kim
+
+=== Email 94 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 11:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$257k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 95 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 12:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$275k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 96 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 13:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$293k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 97 ===
+Project: AI Project
+From: Priya Nair <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $360k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Priya Nair
+
+=== Email 98 ===
+Project: Healthcare System
+From: Tina Okonkwo <tina@northbridge-consulting.com>
+Subject: [Healthcare System] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-15 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Tina Okonkwo
+
+=== Email 99 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 09:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$95k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 100 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 10:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$113k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 101 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-14 11:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$131k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 102 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 12:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$149k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 103 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 104 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 14:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$185k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 105 ===
+Project: AI Project
+From: Marcus Lee <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $325k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Marcus Lee
+
+=== Email 106 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 09:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$221k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 107 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 10:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$239k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 108 ===
+Project: Retail Analytics
+From: Chris Patel <chris@northbridge-consulting.com>
+Subject: [Retail Analytics] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-17 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Chris Patel
+
+=== Email 109 ===
+Project: AI Project
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: AI Project — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 110 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 13:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$293k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 111 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 14:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$311k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 112 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 15:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$329k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 113 ===
+Project: AI Project
+From: Marcus Lee <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $290k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Marcus Lee
+
+=== Email 114 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 10:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$113k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 115 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 116 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 12:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$149k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 117 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-18 13:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$167k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 118 ===
+Project: Healthcare System
+From: Chris Patel <chris@northbridge-consulting.com>
+Subject: [Healthcare System] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-19 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Chris Patel
+
+=== Email 119 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 15:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$203k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 120 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 09:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$221k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 121 ===
+Project: AI Project
+From: Dana Frost <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $255k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Dana Frost
+
+=== Email 122 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 11:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$257k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 123 ===
+Project: Banking Platform
+From: Chris Patel <chris@northbridge-consulting.com>
+Subject: [Banking Platform] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-16 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Chris Patel
+
+=== Email 124 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 13:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$293k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 125 ===
+Project: AI Project
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [AI Project] Notification: P1 defect triage
+Body:
+Work item references AI Project. Target date 2026-04-14 14:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$311k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 126 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-15 15:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$329k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 127 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 128 ===
+Project: Retail Analytics
+From: Jordan Kim <jordan@northbridge-consulting.com>
+Subject: [Retail Analytics] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-21 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Jordan Kim
+
+=== Email 129 ===
+Project: AI Project
+From: Marcus Lee <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $220k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Marcus Lee
+
+=== Email 130 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-19 12:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$149k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 131 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-20 13:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$167k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 132 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-21 14:11. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$185k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 133 ===
+Project: AI Project
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: AI Project — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 134 ===
+Project: Healthcare System
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Healthcare System] Notification: Sprint review
+Body:
+Work item references Healthcare System. Target date 2026-04-11 09:33. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$221k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 135 ===
+Project: Banking Platform
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Banking Platform] Notification: Change request
+Body:
+Work item references Banking Platform. Target date 2026-04-12 10:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$239k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 136 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-13 11:00. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$257k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.
+
+=== Email 137 ===
+Project: AI Project
+From: Marcus Lee <leadership@northbridge-consulting.com>
+Subject: [AI Project] Executive readout — risks and revenue exposure
+Body:
+Team,
+
+We need a tight narrative for AI Project ahead of the board prep session. A stakeholder flagged a potential $185k revenue-at-risk scenario if the committed milestone slips beyond 2026-04-18 17:00.
+
+Escalation: assign mitigation owners and confirm by EOD 2026-04-16 18:00. Document top 3 risks with client-visible impact.
+
+Thanks,
+Marcus Lee
+
+=== Email 138 ===
+Project: Healthcare System
+From: Sam Rivera <sam@northbridge-consulting.com>
+Subject: [Healthcare System] Internal — blockers and environment parity
+Body:
+Abi — thread summary.
+
+Blocker: lower-environment parity is slowing regression; risk of compressed UAT if not fixed by 2026-04-15 18:30. Infra ticket opened; no client escalation yet.
+
+Deadline reminder: draft test exit criteria by 2026-04-19 10:00.
+
+Sam Rivera
+
+=== Email 139 ===
+Project: Banking Platform
+From: Program Office <pmo@meridianheal.com>
+Subject: RE: Banking Platform — timeline, quality, and contractual obligations
+Body:
+Abi,
+
+For the record: (1) Vendor feed dependency remains a material risk; missing the 2026-04-20 09:00 cutover could push roughly $200k of Q2 revenue recognition. (2) We require written confirmation that security exceptions expire 2026-04-25 23:59. (3) Please escalate internally if integration cannot commit to remediation by 2026-04-17 12:00.
+
+We remain partners but need tighter execution.
+
+Meridian Health PMO
+
+=== Email 140 ===
+Project: Retail Analytics
+From: Service Desk <servicedesk@northbridge-consulting.com>
+Subject: [Retail Analytics] Notification: Risk register update
+Body:
+Work item references Retail Analytics. Target date 2026-04-17 15:44. Risk elevated on dependency chain. Finance tagged delay sensitivity ~$329k. Leadership asks for a one-page client-facing summary if status remains amber after 2026-04-21 16:00.

@@ -1,0 +1,73 @@
+task,project,owner,status,deadline,priority
+Draft integration test plan for AI Project,AI Project,Abi,Delayed,2026-04-11 09:00,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Jordan Kim,In Progress,2026-04-12 10:13,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Sam Rivera,Delayed,2026-04-13 11:26,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Tina Okonkwo,Not Started,2026-04-14 12:39,P3
+Production readiness checklist — AI Project,AI Project,Chris Patel,Completed,2026-04-15 13:02,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Morgan Blake,In Progress,2026-04-16 14:15,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Abi,Delayed,2026-04-17 15:28,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Jordan Kim,Not Started,2026-04-18 16:41,P3
+Draft integration test plan for AI Project,AI Project,Sam Rivera,Completed,2026-04-19 09:04,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Tina Okonkwo,In Progress,2026-04-20 10:17,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Chris Patel,Delayed,2026-04-21 11:30,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Morgan Blake,Delayed,2026-04-22 12:43,P3
+Production readiness checklist — AI Project,AI Project,Abi,Completed,2026-04-23 13:06,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Jordan Kim,In Progress,2026-04-24 14:19,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Sam Rivera,Delayed,2026-04-11 15:32,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Tina Okonkwo,Not Started,2026-04-12 16:45,P3
+Draft integration test plan for AI Project,AI Project,Chris Patel,Completed,2026-04-13 09:08,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Morgan Blake,In Progress,2026-04-14 10:21,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Abi,Delayed,2026-04-15 11:34,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Jordan Kim,Not Started,2026-04-16 12:47,P3
+Production readiness checklist — AI Project,AI Project,Sam Rivera,Completed,2026-04-17 13:10,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Tina Okonkwo,In Progress,2026-04-18 14:23,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Chris Patel,Delayed,2026-04-19 15:36,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Morgan Blake,Not Started,2026-04-20 16:49,P3
+Draft integration test plan for AI Project,AI Project,Abi,Completed,2026-04-21 09:12,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Jordan Kim,In Progress,2026-04-22 10:25,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Sam Rivera,Delayed,2026-04-23 11:38,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Tina Okonkwo,Not Started,2026-04-24 12:01,P3
+Production readiness checklist — AI Project,AI Project,Chris Patel,Completed,2026-04-11 13:14,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Morgan Blake,In Progress,2026-04-12 14:27,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Abi,Delayed,2026-04-13 15:40,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Jordan Kim,Not Started,2026-04-14 16:03,P3
+Draft integration test plan for AI Project,AI Project,Sam Rivera,Completed,2026-04-15 09:16,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Tina Okonkwo,Delayed,2026-04-16 10:29,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Chris Patel,Delayed,2026-04-17 11:42,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Morgan Blake,Not Started,2026-04-18 12:05,P3
+Production readiness checklist — AI Project,AI Project,Abi,Completed,2026-04-19 13:18,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Jordan Kim,In Progress,2026-04-20 14:31,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Sam Rivera,Delayed,2026-04-21 15:44,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Tina Okonkwo,Not Started,2026-04-22 16:07,P3
+Draft integration test plan for AI Project,AI Project,Chris Patel,Completed,2026-04-23 09:20,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Morgan Blake,In Progress,2026-04-24 10:33,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Abi,Delayed,2026-04-11 11:46,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Jordan Kim,Not Started,2026-04-12 12:09,P3
+Production readiness checklist — AI Project,AI Project,Sam Rivera,Delayed,2026-04-13 13:22,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Tina Okonkwo,In Progress,2026-04-14 14:35,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Chris Patel,Delayed,2026-04-15 15:48,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Morgan Blake,Not Started,2026-04-16 16:11,P3
+Draft integration test plan for AI Project,AI Project,Abi,Completed,2026-04-17 09:24,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Jordan Kim,In Progress,2026-04-18 10:37,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Sam Rivera,Delayed,2026-04-19 11:00,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Tina Okonkwo,Not Started,2026-04-20 12:13,P3
+Production readiness checklist — AI Project,AI Project,Chris Patel,Completed,2026-04-21 13:26,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Morgan Blake,In Progress,2026-04-22 14:39,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Abi,Delayed,2026-04-23 15:02,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Jordan Kim,Delayed,2026-04-24 16:15,P3
+Draft integration test plan for AI Project,AI Project,Sam Rivera,Completed,2026-04-11 09:28,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Tina Okonkwo,In Progress,2026-04-12 10:41,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Chris Patel,Delayed,2026-04-13 11:04,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Morgan Blake,Not Started,2026-04-14 12:17,P3
+Production readiness checklist — AI Project,AI Project,Abi,Completed,2026-04-15 13:30,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Jordan Kim,In Progress,2026-04-16 14:43,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Sam Rivera,Delayed,2026-04-17 15:06,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Tina Okonkwo,Not Started,2026-04-18 16:19,P3
+Draft integration test plan for AI Project,AI Project,Chris Patel,Completed,2026-04-19 09:32,P0
+Client workshop deck — Healthcare System phase 2,Healthcare System,Morgan Blake,In Progress,2026-04-20 10:45,P1
+Remediate open findings in security scan — Banking Platform,Banking Platform,Abi,Delayed,2026-04-21 11:08,P2
+Data mapping workshop follow-ups — Retail Analytics,Retail Analytics,Jordan Kim,Not Started,2026-04-22 12:21,P3
+Production readiness checklist — AI Project,AI Project,Sam Rivera,Completed,2026-04-23 13:34,P0
+Stakeholder comms for go-live — Healthcare System,Healthcare System,Tina Okonkwo,In Progress,2026-04-24 14:47,P1
+Vendor dependency RAID update — Banking Platform,Banking Platform,Chris Patel,Delayed,2026-04-11 15:10,P2
+UAT defect triage backlog — Retail Analytics,Retail Analytics,Morgan Blake,Not Started,2026-04-12 16:23,P3
